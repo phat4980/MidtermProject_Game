@@ -1,1 +1,1 @@
-Midterm project Game
+First project game using Unity
